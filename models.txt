@@ -1,0 +1,27 @@
+- car 
+   - price
+   - year
+   - model
+   - make
+   - options
+   - mileage
+
+- salesperson
+    - name
+    - monthly sales 
+    - specialization
+    - commission
+
+- Payables
+   - amount
+   - debt holder
+   - ...
+
+- customers
+  - 
+
+- sale 
+  - car
+  - buyer
+  - salesperson
+  - payable
